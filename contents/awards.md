@@ -1,9 +1,5 @@
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Outstanding Graduates of 2022, 2022.
 
 - First-prize Enterprise Scholarship, 2021.
 
-- First-prize Academic Scholarship, 2019.
+- National Computer Rank Examination Level 2, 2019.
